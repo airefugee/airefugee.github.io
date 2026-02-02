@@ -3,22 +3,6 @@ layout: default
 title: Resume
 ---
 
-<div class="topbar">
-  <div>
-    <h1 class="name">Carter Niu（牛XX）</h1>
-    <div class="meta">
-      <span>Canada (Remote)</span> ·
-      <span>(+1) 438-455-3965</span> ·
-      <span><a href="mailto:YNiu.IT@gmail.com">YNiu.IT@gmail.com</a></span>
-    </div>
-    <div class="meta">
-      <span><b>Target:</b> AI Full-Stack Engineer（工程迭代 / 功能维护 / 系统稳定性）</span>
-      <span class="tag">15h/week</span>
-      <span class="tag">Remote</span>
-      <span class="tag">Available Now</span>
-    </div>
-  </div>
-</div>
 
 <hr/>
 
